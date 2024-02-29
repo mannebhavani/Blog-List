@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.list-item {
+  display: flex;
+  flex-direction: column;
+}
+.post-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.post-date {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+.post-heading {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #12022f;
+  font-weight: 700;
+}
+.post-para {
+  font-size: 10px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
